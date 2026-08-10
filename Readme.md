@@ -1,6 +1,6 @@
-# 📡 Scanning & Enumeration — Nmap, Zenmap & Module 04
+# 📡 Scanning & Enumeration — Nmap, Zenmap & Enumeration
 
-Chapter-wise notes on network scanning and enumeration, built from course slides (Module 03: Scanning Networks, Module 04: Enumeration), reorganized for quick reference, with extra tools added from global practice.
+Chapter-wise notes on network scanning and enumeration, built from course slides (Module 03: Scanning Networks, Enumeration), reorganized for quick reference, with extra tools added from global practice.
 
 > ⚠️ **Legal note:** Everything in this repo is **active** and touches the target's systems directly — port scans, service detection, firewall evasion, OS fingerprinting, and every enumeration technique in Module 04 (which additionally extracts real usernames/data). Only run these against systems you own or have **written authorization** to test. Unauthorized scanning/enumeration can be prosecuted under India's IT Act 2000 (Sections 43, 66) and the DPDP Act 2023 where personal data is involved, and equivalent laws elsewhere (CFAA in the US, Computer Misuse Act in the UK). `scanme.nmap.org` is Nmap's own public test target — safe to practice scanning against; use your own lab VMs for enumeration practice.
 
